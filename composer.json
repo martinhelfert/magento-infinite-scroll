@@ -1,0 +1,9 @@
+{
+    "name": "meanbee/infinitescroll",
+    "type": "magento-module",
+    "homepage": "https://github.com/meanbee/magento-infinite-scroll",
+    "description": "Lazy load products on category and search results pages",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+}
