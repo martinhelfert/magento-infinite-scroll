@@ -5,5 +5,5 @@
     "description": "Lazy load products on category and search results pages",
     "suggest": {
         "magento-hackathon/magento-composer-installer": "*"
-    },
+    }
 }
